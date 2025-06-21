@@ -1,3 +1,4 @@
+# hat.py
 
 import copy
 import random
